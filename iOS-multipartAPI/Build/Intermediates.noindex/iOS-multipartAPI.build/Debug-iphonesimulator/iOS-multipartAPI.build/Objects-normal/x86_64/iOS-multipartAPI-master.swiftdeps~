@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "88c55bf6f75dc34651a96b18e1e8798d"
+build_time: [1537446700, 758891000]
+inputs:
+  "/Users/jackwong/iOS-multipartAPI/iOS-multipartAPI/iOS-multipartAPI/ViewController.swift": [1537446693, 0]
+  "/Users/jackwong/iOS-multipartAPI/iOS-multipartAPI/iOS-multipartAPI/AppDelegate.swift": [1537446693, 0]
